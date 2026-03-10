@@ -1,2 +1,5 @@
 Git test
 Test2
+Modified
+Git add 
+Git commit
