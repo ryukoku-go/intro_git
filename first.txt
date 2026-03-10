@@ -15,3 +15,4 @@ Git -q
 
 
 Git diff
+Git diff HEAD
