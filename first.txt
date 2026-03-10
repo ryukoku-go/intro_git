@@ -6,3 +6,12 @@ Git commit
 aaaa
 
 Bbbbb
+
+
+Git log -n 
+Git log --oneline 
+Git -q
+
+
+
+Git diff
